@@ -26,3 +26,4 @@ app:
   # List of variables that can be referenced in the server.xml
   variables:
     - name: some_liberty_variable_name
+      value: "some_liberty_variable_value"
