@@ -4,7 +4,7 @@ app:
     min: 1
     max: 1
   #version: ""
-   version: "ecba95b7-a3ce-41b6-9468-9a68f94c4d70"
+   version: "8ebe3f42-61dd-486c-beda-560751e1de3e"
   env:
     - name: JVM_ARGS
       value: "-DenvironmentType=prod"
