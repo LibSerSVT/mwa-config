@@ -12,3 +12,4 @@ app:
       value: "testData"
     - name: MAX
       value: "5"
+ endpoints: public
